@@ -1,4 +1,4 @@
-discord.js
+discord.py
 youtube_dl
 discord.ext
 commands
