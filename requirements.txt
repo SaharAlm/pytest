@@ -1,0 +1,4 @@
+discord.js
+youtube_dl
+discord.ext
+commands
